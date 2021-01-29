@@ -5,7 +5,10 @@ import org.junit.jupiter.api.Test;
 class parameterTest {
 
 	@Test
-	void test() {
+	void COVIDLibTest() {
+		
+		int days1 = 7;
+		
 		
 	}
 }
